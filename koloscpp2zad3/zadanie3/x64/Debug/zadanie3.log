@@ -1,0 +1,4 @@
+﻿  zadanie3.cpp
+E:\STUDIA\2semestr\koloscpp2\koloscpp2zad3\zadanie3\zadanie3.cpp(7,28): error C2248: "Telefon_Dotykowy::Telefon_Dotykowy": nie można uzyskać dostępu do private składowa zadeklarowanych w klasie "Telefon_Dotykowy"
+E:\STUDIA\2semestr\koloscpp2\koloscpp2zad3\zadanie3\zadanie3.h(64): message : zobacz deklarację „Telefon_Dotykowy::Telefon_Dotykowy”
+E:\STUDIA\2semestr\koloscpp2\koloscpp2zad3\zadanie3\zadanie3.h(59): message : zobacz deklarację „Telefon_Dotykowy”
