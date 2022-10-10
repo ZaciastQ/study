@@ -1,2 +1,3 @@
 # study
-any code
+Politechnika Świetokrzyska
+Beginner in coding code - i think
