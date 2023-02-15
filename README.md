@@ -1,4 +1,4 @@
 # study
 Politechnika Świetokrzyska
 Begin the travel with code..
-Many knowledge in private repos.
+Much more knowledge in private repos.
