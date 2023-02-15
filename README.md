@@ -1,3 +1,4 @@
 # study
 Politechnika Świetokrzyska
-Beginner in coding code - i think
+Begin the travel with code..
+Many knowledge in private repos.
